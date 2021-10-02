@@ -1,9 +1,4 @@
 {
- "start_url": "index.htm",
- "name": "Beethoven Pet Shop - Banho e Tosa",
- "description": "R. Mal. João Carlos Barreto, 9 - Jardim Maria Sampaio, São Paulo - SP, 05790-370",
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
+ "start_url": "index.htm",
+ "description": "R. Mal. João Carlos Barreto, 9 - Jardim Maria Sampaio, São Paulo - SP, 05790-370",
+ "theme_color": "#FFFFFF",
+ "name": "Beethoven Pet Shop - Banho e Tosa",
+ "background_color": "#FFFFFF",
  "display": "fullscreen"
 }
