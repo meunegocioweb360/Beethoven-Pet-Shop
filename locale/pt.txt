@@ -71,7 +71,7 @@ video_21192CF5_2DA5_5FE9_41B4_CCDAC21372B6.label = Carregando1
 ## Action
 
 ### URL
-LinkBehaviour_08C55185_2DA5_462E_4190_5CD8CEB6588B.source = https:https://api.whatsapp.com/send?phone=5511947446438
+LinkBehaviour_08C55185_2DA5_462E_4190_5CD8CEB6588B.source = https://api.whatsapp.com/send?phone=5511947446438
 LinkBehaviour_08C65186_2DA5_462A_41AF_73BEA329030E.source = https://www.google.com/maps?cid=13572377804927230787
 LinkBehaviour_08C69187_2DA5_462A_4174_47F86A863DD3.source = https://www.instagram.com/beethoven_petshop/
 LinkBehaviour_08C7818B_2DA5_463A_41B5_73E0151A2E2A.source = https://pt-br.facebook.com/beethovenpett/
